@@ -57,7 +57,7 @@ com.gateway
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- H2 Database (or MySQL)
+-  MySQL
 - Maven
 - Jakarta Persistence (JPA)
 
